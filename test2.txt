@@ -1,1 +1,5 @@
-new test2 file on feature1 branch.
+<<<<<<< HEAD::
+new test2 fiiiiile on feature1 branch.
+=======
+new test2 file on feature2 branch
+>>>>>>> new_feature2
